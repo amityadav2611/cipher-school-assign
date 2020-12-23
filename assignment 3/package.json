@@ -1,0 +1,25 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "\"# assignment-nov-mern-cipherschools\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NthnShtty/assignment-nov-mern-cipherschools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NthnShtty/assignment-nov-mern-cipherschools/issues"
+  },
+  "homepage": "https://github.com/NthnShtty/assignment-nov-mern-cipherschools#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "mongoose": "^5.11.8"
+  }
+}
